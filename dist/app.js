@@ -6,56 +6,14 @@
 //const { getUserById } = require('./js-foundation/03-callbacks');
 //const { getUserById } = require('./js-foundation/04-arrows');
 //const getPokemonById = require('./js-foundation/06-promises');
-
+export {};
 //const logger = buildLogger('app.js');
 //logger.log('Hola mundo');
 //logger.error('Esto es algo malo');
-
 //getPokemonById(4)
-  //  .then((pokemon) => console.log({pokemon}))
-    //.catch((err) => console.error('Por favor intente de nuevo'))
-    //.finally(() => console.log('Proceso finalizado'));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//  .then((pokemon) => console.log({pokemon}))
+//.catch((err) => console.error('Por favor intente de nuevo'))
+//.finally(() => console.log('Proceso finalizado'));
 // ! Referencia a la function Factory y uso de la misma
 /*const { buildMakePerson} = require('./js-foundation/05-factory')
 
@@ -67,7 +25,6 @@ const john = makePerson(obj);
 
 console.log({john});
 */
-
 //console.log(emailTemplate);
 /*
 const id = 1;
@@ -81,5 +38,3 @@ getUserById(id, (error, user) => {
     console.log(user);
 });
 */
-
-

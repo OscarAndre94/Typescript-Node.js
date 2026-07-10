@@ -4,5 +4,3 @@ export const emailTemplate = `
     <p>Gracias por su orden... </p>
     <p>Order ID: {{orderId}}</p>
 </div>`;
-
-
